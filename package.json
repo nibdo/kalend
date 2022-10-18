@@ -29,7 +29,7 @@
     "@types/color": "3.0.3",
     "@types/faker": "5.5.9",
     "@types/jest": "29.1.0",
-    "@types/luxon": "3.0.1",
+    "@types/luxon": "3.0.2",
     "@types/mocha": "9.1.1",
     "@types/node": "16.11.62",
     "@types/react": "17.0.50",

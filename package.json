@@ -28,7 +28,7 @@
   "devDependencies": {
     "@types/color": "3.0.3",
     "@types/faker": "5.5.9",
-    "@types/jest": "29.1.0",
+    "@types/jest": "29.2.0",
     "@types/luxon": "3.0.1",
     "@types/mocha": "9.1.1",
     "@types/node": "16.11.62",

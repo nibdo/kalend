@@ -24,7 +24,7 @@
     "color": "4.2.3",
     "datez": "0.0.7",
     "dequal": "2.0.3",
-    "luxon": "3.1.1"
+    "luxon": "3.2.1"
   },
   "devDependencies": {
     "@types/color": "3.0.3",

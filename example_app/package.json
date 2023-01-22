@@ -13,7 +13,7 @@
   "dependencies": {
     "faker": "5.5.3",
     "kalend": "0.17.6",
-    "luxon": "2.5.0",
+    "luxon": "2.5.2",
     "node-sass": "7.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",

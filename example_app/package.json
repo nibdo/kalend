@@ -37,7 +37,7 @@
     "eslint-config-react": "1.1.7",
     "eslint-plugin-prettier": "4.2.1",
     "prettier": "2.7.1",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "tsconfig-paths": "4.1.0"
   },
   "scripts": {

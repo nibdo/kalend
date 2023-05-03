@@ -158,6 +158,14 @@ const ConfigLayer = (props: KalendProps) => {
     props.disableMobileDropdown,
     props.newEventText,
     props.weekDayStart,
+    // callbacks
+    props.onEventDragFinish,
+    props.onPageChange,
+    props.onSelectView,
+    props.onEventClick,
+    props.onNewEventClick,
+    props.showMoreMonth,
+    props.onStateChange,
   ]);
 
   useEffect(() => {
